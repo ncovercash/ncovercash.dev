@@ -1,0 +1,9 @@
+[submodule "Projects/clock"]
+	path = Projects/clock
+	url = git@github.com:ncovercash/clock.git
+[submodule "Projects/timer"]
+	path = Projects/timer
+	url = git@github.com:ncovercash/timer.git
+[submodule "Projects/trng"]
+	path = Projects/trng
+	url = git@github.com:ncovercash/trng.git

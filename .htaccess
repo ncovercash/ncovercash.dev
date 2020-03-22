@@ -1,0 +1,4 @@
+<IfModule mod_speling.c>
+	CheckSpelling on
+	CheckCaseOnly on
+</IfModule>
