@@ -7,3 +7,6 @@
 [submodule "Projects/trng"]
 	path = Projects/trng
 	url = git@github.com:ncovercash/trng.git
+[submodule "Projects/wolfram"]
+	path = Projects/wolfram
+	url = git@github.com:ncovercash/wolfram-test.git
