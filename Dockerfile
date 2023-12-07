@@ -1,5 +1,8 @@
 FROM trafex/php-nginx:latest
 
+  # remove initial index.php and such
+  RUN rm /var/www/html/*
+
   COPY . /var/www/html
 
   USER nobody
