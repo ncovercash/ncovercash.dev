@@ -1,4 +1,4 @@
-FROM ghcr.io/ncovercash/docker-php-nginx:v1.2.1
+FROM ghcr.io/ncovercash/docker-php-nginx:v1.2.3
 
   # remove initial index.php and such
   RUN rm /var/www/html/*
